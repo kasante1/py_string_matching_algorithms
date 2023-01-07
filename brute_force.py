@@ -44,4 +44,4 @@ def brute_force(text, pattern):
         print("\nPattern is not at all present in the array")
 
 
-brute_force("acbcabccababcaacbcaabacbbc", "acb")  # function call
+brute_force("Today’s date is 12th November, 2022. 8:14:14 pm.", "Today’s d")  # function call
